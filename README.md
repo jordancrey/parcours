@@ -1,1 +1,1 @@
-# exercices javascript, jsquery
+# exercices javascript, jquery
